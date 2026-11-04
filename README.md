@@ -1,8 +1,8 @@
-# Herdr PRs
+# herdr-prs
 
-A sidebar of your GitHub pull requests for the [Herdr](https://herdr.dev) desktop app: the 15 open ones with the latest activity, and the 5 you merged or closed most recently.
+A simple mod for the [Herdr](https://herdr.dev) desktop app that shows GitHub pull requests.
 
-![The PR sidebar](preview.png)
+<img src="preview.png" alt="The PR sidebar" width="300">
 
 - **Open PRs at a glance.** A dot for CI (green passed, red failed, yellow running, grey no checks), the repo and number, the review state (Review, Approved, Changes, Draft) and how long ago it last changed.
 - **Recently closed.** The last 5 merged (purple) or closed (red) PRs, with when they closed.
